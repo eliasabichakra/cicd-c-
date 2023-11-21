@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "frXp6lWD9BWgKYvZcaXi4ik9RYWsbS4rQCzTzuR89Zg=",
+  "Source": "task-cicd",
+  "BasePath": "_content/task-cicd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "task-cicd\\wwwroot",
+      "Source": "task-cicd",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\ci-cd\\task-cicd\\wwwroot\\",
+      "BasePath": "_content/task-cicd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\ci-cd\\task-cicd\\wwwroot\\index.html",
+      "SourceId": "task-cicd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\ci-cd\\task-cicd\\wwwroot\\",
+      "BasePath": "_content/task-cicd",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
